@@ -1,5 +1,7 @@
 # Building-Machine-Learning-Systems-with-Python
 Building Machine Learning Systems with Python, 2nd Edition
+https://github.com/luispedro/BuildingMachineLearningSystemsWithPython
+Source Code for the book Building Machine Learning Systems with Python by Luis Pedro Coelho and Willi Richert.
 
 ### **[Book Description]**
 Machine learning, the field of building systems that learn from data, is exploding on the Web and elsewhere. Python is a wonderful language in which to develop machine learning applications. As a dynamic language, it allows for fast exploration and experimentation and an increasing number of machine learning libraries are developed for Python.

@@ -35,3 +35,45 @@ Use the Jug package for data analysis
 Employ Amazon Web Services to run analyses on the cloud
 
 Recommend products to users based on past purchases
+
+
+### **[Python Package Installation]**
+
+python -m pip install -U pip
+
+python -m pip install --upgrade pip
+
+http://www.lfd.uci.edu/~gohlke/pythonlibs/#numpy
+
+http://www.lfd.uci.edu/~gohlke/pythonlibs/6kbpejrn/numpy-1.11.0+mkl-cp35-cp35m-win_amd64.whl
+
+http://www.lfd.uci.edu/~gohlke/pythonlibs/#scipy
+
+http://www.lfd.uci.edu/~gohlke/pythonlibs/6kbpejrn/scipy-0.17.1-cp35-cp35m-win_amd64.whl
+
+http://www.lfd.uci.edu/~gohlke/pythonlibs/#matplotlib
+
+http://www.lfd.uci.edu/~gohlke/pythonlibs/6kbpejrn/matplotlib-1.5.1-cp35-none-win_amd64.whl
+
+
+pip install "numpy-1.11.0+mkl-cp35-cp35m-win_amd64.whl"
+
+pip install "scipy-0.17.1-cp35-cp35m-win_amd64.whl"
+
+pip install "matplotlib-1.5.1-cp35-none-win_amd64.whl"
+
+pip install matplotlib
+
+pip install jsonschema
+
+pip install -U scikit-learn
+
+pip install -U nltk
+
+jupyter notebook --debug
+
+jupyter notebook --generate-config
+
+C:\Users\\[User]\\.jupyter\jupyter_notebook_config.py
+
+c.NotebookApp.port = 8889
